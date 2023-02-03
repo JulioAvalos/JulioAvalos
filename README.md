@@ -11,10 +11,8 @@ A little bit about me:
 - 👯 I’m looking to collaborate on Full Stack projects using Node.js + React (Solidity and Rust are still welcome!)
 - 📫 How to reach me: You can contact me through linkedin, the link is at the top of my profile!
 - ⚡ Fun fact: When I had my first approach to a computer in the 90s, I learned to use it while playing super nintendo with emulators.
-
-And then I improved my typing speed while playing online games and typing simultaneously in chat with other players.
-
-I tried to take formal typing classes on my own, but I couldn't unlearn the way I used it, maybe if I had taken them in the beginning, I would be even faster at programming, lol
+-    And then I improved my typing speed while playing online games and typing simultaneously in chat with other players.
+-    I tried to take formal typing classes on my own, but I couldn't unlearn the way I used it, maybe if I had taken them in the beginning, I would be even faster at programming, lol
 
 <!--
 **JulioAvalos/JulioAvalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
