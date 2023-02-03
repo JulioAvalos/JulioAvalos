@@ -2,7 +2,7 @@
 
 I'm Julio! 
 
-I've been a couple of years in the IT industry, I made this Github repository in order to have projects with which I have learned to use web technologies and that serve me as a library to remember some software implementations I did previously or have templates to start new projects from scratch.
+I've been in the IT sector for a couple of years, I made this Github repository to have projects with which I have learned to use web technologies and that serve me as a library or cheat sheets, to remember some software implementations I did before or to have templates to start new projects from scratch.
 
 A little bit about me:
 
