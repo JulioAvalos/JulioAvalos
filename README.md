@@ -1,5 +1,5 @@
 ### Hey there 👋
-I'm Julio, I'm a Senior Software Developer with +8 years of experience! 
+I'm Julio, Senior Software Developer with +8 years of experience! 
 
 I've been in the IT sector for a couple of years, I made this Github repository to have projects with which I have learned to use web technologies and that serve me as a library to remember some software implementations I did before or to have templates to start new projects from scratch.
 
