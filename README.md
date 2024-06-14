@@ -8,7 +8,7 @@ A little bit about me:
 
 - 🔭 I’m currently working with Angular but I'm well versed working with React.js/Next.js!
 - 📫 How to reach me: You can contact me through linkedin, the link is at the top of my profile or just hit me up with a email!
-- ⚡ Fun fact: When I had my first approach to a computer in the 90s, I learned to use it while playing super nintendo with emulators. And then I improved my typing speed while playing online games and typing simultaneously in chat with other players. I tried to take formal typing classes on my own, but I couldn't unlearn the way I used it, maybe if I had taken them in the beginning, I would be even faster at programming.
+- ⚡ Fun fact: When I had my first approach to a computer in the 90s, I learned to use it while playing super nintendo with emulators. And then I improved my typing speed while playing online games and typing simultaneously in chat with other players. I tried to take formal typing classes on my own, but I couldn't unlearn the way I used it, maybe if I had taken them in the beginning, I would be even faster at typing!
 
 
 <!--
