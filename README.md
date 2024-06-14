@@ -2,7 +2,7 @@
 
 My name is Julio, I'm a software engineer with over +10 years of experience! 
 
-I've been in the IT sector for a couple of years, back then when I started my journey in this fast-paced industry I decided to make this Github account to keep a large repository to have my projects with which I've learned to use web technologies and that serve me as a library to remember some software implementations I did previously or have templates to start new projects from scratch.
+I've been in the IT sector for a couple of years, back then when I started my journey in this fast-paced industry I decided to make this github account to keep a large repository to have my projects with which I've learned to use web technologies and that serve me as a library to remember some software implementations I did previously or have templates to start new projects from scratch!
 
 A little bit about me:
 
