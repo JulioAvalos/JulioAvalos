@@ -11,9 +11,9 @@ I’ve been in the IT sector for quite some time. When I first started my journe
   - Connect with me on [LinkedIn](https://www.linkedin.com/in/julioavalos2/) (link at the top of my profile).  
   - Or send me an email!  
 - ⚡ **Fun fact:**  
-  My first encounter with a computer in the 90s was through playing Super Nintendo games on emulators. I improved my typing speed by chatting with other players in online games.  
-  I even tried formal typing classes later, but I couldn’t unlearn my unique typing style.  
-  Maybe if I’d started with those classes, I’d be even faster now!  
+  My first encounter with a computer in the 90s was through playing Super Nintendo games on emulators. I improved my typing speed by chatting with other players in online games.
+  
+  I even tried formal typing classes later, but I couldn’t unlearn my unique typing style. Maybe if I’d started with those classes, I’d be even faster now!  
 
 ---
 
