@@ -1,26 +1,37 @@
 # Hi there! 👋
 
-**My name is Julio, and I’m a highly skilled and results-driven software engineer with over a decade of experience!**
+My name is **Julio**, and I’m a highly skilled and results-driven **software engineer** with over a decade of experience in developing and programming enterprise applications for both internal and public-facing use. I thrive in creating scalable and efficient solutions, leveraging the latest technologies to meet the unique challenges of various industries.
 
-I specialize in developing and programming enterprise applications for both internal and public-facing use. Throughout my career, I’ve had the opportunity to work across various industries, including digital agencies, food franchises, logistics, e-commerce, and banking. This has provided me with a deep understanding of diverse business environments and their unique challenges.
+Throughout my career, I’ve had the privilege of working in **digital agencies**, **food franchises**, **logistics**, **e-commerce**, and **banking**, which has provided me with a diverse perspective on business environments and the distinct challenges they face. This wealth of experience allows me to deliver tailored solutions that drive success and innovation.
 
-When I first started my journey in this fast-paced industry, I created this GitHub account to store a large repository of my projects. These projects have helped me learn web technologies and now serve as a personal library—a place to reference past implementations or reuse templates for starting new projects from scratch.
+### A Journey of Growth
 
-With a robust technical foundation, I bring expertise in a wide range of technologies, including **jQuery**, **Java**, **Spring Boot**, **C#**, **PHP**, **Angular**, **Node.js**, **React**, **Next.js**, **Docker**, **Git**, **Oracle SQL**, **MySQL**, **PostgreSQL**, **Google Cloud Platform**, and **Amazon Web Services**. Over the past five years, I’ve focused on **Java/Spring Boot**, **Node.js**, and **React.js/Next.js**, delivering scalable, efficient, and innovative solutions that align with modern business needs.
+I first created this GitHub account to store and showcase a wide array of projects that helped me learn and master web technologies. Over the years, these projects have become a personal library—a valuable reference for past implementations and templates to kick-start new ventures.
 
-I pride myself on being a strong technical leader, capable of tackling complex challenges and driving projects to success through hard work, dedication, and collaboration. I am committed to delivering high-quality products that meet and exceed client expectations. My passion for continuous learning and adapting to new technologies ensures I stay at the forefront of industry trends, enabling me to consistently deliver exceptional results.
+### Technical Expertise 💻
 
-## A little bit about me:
+With a strong foundation in both backend and frontend technologies, I bring expertise in the following:
 
-- 🔭 **I’m currently working with Angular**, but I’m also highly experienced with **React.js** and **Next.js**!  
-- 📫 **How to reach me:**  
-  - Connect with me on [LinkedIn](#) (link at the top of my profile).  
-  - Or send me an email!  
-- ⚡ **Fun fact:**  
-  My first encounter with a computer in the 90s was through playing Super Nintendo games on emulators. I improved my typing speed by chatting with other players in online games.  
-  I even tried formal typing classes later, but I couldn’t unlearn my unique typing style.  
-  Maybe if I’d started with those classes, I’d be even faster now!  
+- **Frontend**: React, Next.js, Angular, jQuery
+- **Backend**: Java, Spring Boot, Node.js, PHP, C#
+- **Databases**: MySQL, PostgreSQL, Oracle SQL
+- **Cloud & DevOps**: AWS, GCP, Docker, Git
+- **Other Tools**: Docker, Git, and more!
+
+Over the past five years, I’ve focused on **Java/Spring Boot**, **Node.js**, and **React.js/Next.js**, delivering high-performance, scalable applications that address modern business needs.
+
+### Leadership & Collaboration 🏆
+
+I take pride in being a strong **technical leader** with a track record of leading complex projects to success. I tackle challenges head-on, collaborating with cross-functional teams and ensuring high-quality deliverables. My dedication to continuous learning and adapting to new technologies ensures that I stay ahead of the curve and consistently deliver innovative results.
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate! 😊
+### A Little Bit About Me
+
+- 🔭 **Currently working with**: Angular, but also highly experienced with **React.js** and **Next.js**!
+- 📫 **How to reach me**: Connect with me on [LinkedIn](#) or send me an email!
+- ⚡ **Fun fact**: My first encounter with computers was in the 90s, playing **Super Nintendo games** on emulators. I improved my typing speed by chatting with other players in online games. I even tried formal typing classes later, but I couldn’t unlearn my unique typing style. Who knows? Maybe if I’d started those classes earlier, I’d be an even faster typist now!
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to connect or collaborate! 😊
