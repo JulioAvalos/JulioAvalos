@@ -35,3 +35,5 @@ I take pride in being a strong **technical leader** with a track record of leadi
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to connect or collaborate! 😊
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JulioAvalos)
