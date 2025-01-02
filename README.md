@@ -15,8 +15,7 @@ With a strong foundation in both backend and frontend technologies, I bring expe
 - **Frontend**: React, Next.js, Angular, jQuery
 - **Backend**: Java, Spring Boot, Node.js, PHP, C#
 - **Databases**: MySQL, PostgreSQL, Oracle SQL
-- **Cloud & DevOps**: AWS, GCP, Docker, Git
-- **Other Tools**: Docker, Git, and more!
+- **Cloud & DevOps**: AWS, GCP, Docker, Git, Jenkins, SonarQube
 
 Over the past five years, I’ve focused on **Java/Spring Boot**, **Node.js**, and **React.js/Next.js**, delivering high-performance, scalable applications that address modern business needs.
 
