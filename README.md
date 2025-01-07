@@ -12,8 +12,8 @@ I first created this GitHub account to store and showcase a wide array of projec
 
 With a strong foundation in both backend and frontend technologies, I bring expertise in the following:
 
-- **Frontend**: React, Next.js, Angular, jQuery, Bootstrap, TailwindCSS
-- **Backend**: Java, Spring Boot, Node.js, Express.js, PHP, C#
+- **Frontend**: React, Next.js, Angular, jQuery, JavaScript, TypeScript, Bootstrap, TailwindCSS
+- **Backend**: Java, Spring Boot, JavaScript, TypeScript, Node.js, Express.js, PHP, C#
 - **Databases**: MySQL, PostgreSQL, Oracle SQL, MongoDB
 - **Cloud & DevOps**: AWS, GCP, Docker, Git, Jenkins, SonarQube
 
