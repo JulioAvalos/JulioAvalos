@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there!
 
 My name is **Julio**, and I’m a highly skilled and results-driven **software engineer** with over a decade of experience in developing and programming enterprise applications for both internal and public-facing use. I thrive in creating scalable and efficient solutions, leveraging the latest technologies to meet the unique challenges of various industries.
 
@@ -33,6 +33,6 @@ I take pride in being a strong **technical leader** with a track record of leadi
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to connect or collaborate! 😊
+Thank you for visiting my profile! Feel free to explore my repositories, and don’t hesitate to reach out if you'd like to connect or collaborate! 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JulioAvalos)
