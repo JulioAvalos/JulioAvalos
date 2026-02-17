@@ -28,7 +28,7 @@ I take pride in being a strong **technical leader** with a track record of leadi
 
 ### A Little Bit About Me
 
-- 🔭 **Currently working with**: Angular, but also highly experienced with **React.js**!
+- 🔭 **Currently working with**: Java & Spring Boot, but also highly experienced with **React.js**!
 - 📫 **How to reach me**: Connect with me on [LinkedIn](#) or send me an email!
 - ⚡ **Fun fact**: My first encounter with computers was in the 90s, playing **Super Nintendo games** on emulators. I improved my typing speed by chatting with other players in online games. I even tried formal typing classes later, but I couldn’t unlearn my unique typing style. Who knows? Maybe if I’d started those classes earlier, I’d be an even faster typist now!
 
