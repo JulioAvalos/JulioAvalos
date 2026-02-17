@@ -16,8 +16,6 @@ With a strong foundation in both backend and frontend technologies, I bring expe
 - **Cloud & DevOps**: AWS, GCP, Docker, Git, Jenkins, SonarQube
 - **AI tools**: Claude Code, Github Copilot, Chat GPT
 
-Over the past years, I’ve focused on **Java/Spring Boot**, **Node.js**, and **React.js/Next.js**
-
 ---
 
 ### A Little Bit About Me
