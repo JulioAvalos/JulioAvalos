@@ -6,7 +6,7 @@ Throughout my career, I’ve had the privilege of working in **digital agencies*
 
 ### A Journey of Growth
 
-I first created this GitHub account to store and showcase a wide array of projects that helped me learn and master web technologies. Over the years, these projects have become a personal library—a valuable reference for past implementations and templates to kick-start new ventures.
+I first created this GitHub account to store and showcase a wide array of projects that helped me learn and master web technologies. Over the years, these projects have become a personal library, a valuable reference for past implementations and templates to kick-start new ventures.
 
 ### Technical Expertise 💻
 
