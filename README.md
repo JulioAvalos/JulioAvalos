@@ -1,10 +1,8 @@
-# Hi there!
+# Hi there! 👋
 
-My name is **Julio**, and I’m a highly skilled and results-driven **software engineer** with over a decade of experience in developing and programming enterprise applications for both internal and public-facing use. I thrive in creating scalable and efficient solutions, leveraging the latest technologies to meet the unique challenges of various industries.
+I'm **Julio**, a senior **software engineer** with over a decade of experience designing, building, and scaling enterprise applications.
 
-Throughout my career, I’ve had the privilege of working in **digital agencies**, **food franchises**, **logistics**, **e-commerce**, and **banking**, which has provided me with a diverse perspective on business environments and the distinct challenges they face. This wealth of experience allows me to deliver tailored solutions that drive success and innovation.
-
-### A Journey of Growth
+Throughout my career, I’ve had the privilege of working in **digital agencies**, **food franchises**, **logistics**, **e-commerce**, and **banking**, which has provided me with a diverse perspective on business environments and the distinct challenges they face. 
 
 I first created this GitHub account to store and showcase a wide array of projects that helped me learn and master web technologies. Over the years, these projects have become a personal library, a valuable reference for past implementations and templates to kick-start new ventures.
 
@@ -18,11 +16,7 @@ With a strong foundation in both backend and frontend technologies, I bring expe
 - **Cloud & DevOps**: AWS, GCP, Docker, Git, Jenkins, SonarQube
 - **AI tools**: Claude Code, Github Copilot, Chat GPT
 
-Over the past five years, I’ve focused on **Java/Spring Boot**, **Node.js**, and **React.js/Next.js**, delivering high-performance, scalable applications that address modern business needs.
-
-### Leadership & Collaboration 🏆
-
-I take pride in being a strong **technical leader** with a track record of leading complex projects to success. I tackle challenges head-on, collaborating with cross-functional teams and ensuring high-quality deliverables. My dedication to continuous learning and adapting to new technologies ensures that I stay ahead of the curve and consistently deliver innovative results.
+Over the past years, I’ve focused on **Java/Spring Boot**, **Node.js**, and **React.js/Next.js**
 
 ---
 
