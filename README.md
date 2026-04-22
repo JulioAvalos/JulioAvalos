@@ -23,4 +23,5 @@ I use this GitHub mostly as a personal library — projects I built to learn, te
 
 ---
 Thanks for stopping by. Feel free to explore or reach out!
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JulioAvalos)
+
+[Profile view counter on GitHub](https://komarev.com/ghpvc/?username=JulioAvalos)
