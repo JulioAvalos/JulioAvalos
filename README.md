@@ -1,6 +1,4 @@
-Here's an updated version that matches the same honest, no-fluff tone as your resume:
-
-markdown# Hi there! 👋
+# Hi there! 👋
 
 I'm **Julio**, a Full Stack Engineer with 10+ years of experience building enterprise applications across banking, logistics, e-commerce, and digital agencies.
 
